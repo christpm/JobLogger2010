@@ -1,0 +1,15 @@
+C:\Users\RAYO\Documents\Visual Studio 2010\Projects\JobLogger\JobLogger\bin\Debug\JobLogger.dll
+C:\Users\RAYO\Documents\Visual Studio 2010\Projects\JobLogger\JobLogger\bin\Debug\JobLogger.pdb
+C:\Users\RAYO\Documents\Visual Studio 2010\Projects\JobLogger\JobLogger\obj\Debug\JobLogger.dll
+C:\Users\RAYO\Documents\Visual Studio 2010\Projects\JobLogger\JobLogger\obj\Debug\JobLogger.pdb
+C:\Users\RAYO\Documents\Visual Studio 2010\Projects\JobLogger\JobLogger\obj\Debug\JobLogger.csprojResolveAssemblyReference.cache
+C:\JobLogger\JobLogger\bin\Debug\JobLogger.dll
+C:\JobLogger\JobLogger\bin\Debug\JobLogger.pdb
+C:\JobLogger\JobLogger\obj\Debug\JobLogger.csprojResolveAssemblyReference.cache
+C:\JobLogger\JobLogger\obj\Debug\JobLogger.dll
+C:\JobLogger\JobLogger\obj\Debug\JobLogger.pdb
+C:\JobLogger2010\JobLogger\bin\Debug\JobLogger.dll
+C:\JobLogger2010\JobLogger\bin\Debug\JobLogger.pdb
+C:\JobLogger2010\JobLogger\obj\Debug\JobLogger.csprojResolveAssemblyReference.cache
+C:\JobLogger2010\JobLogger\obj\Debug\JobLogger.dll
+C:\JobLogger2010\JobLogger\obj\Debug\JobLogger.pdb

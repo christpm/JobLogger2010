@@ -1,0 +1,19 @@
+C:\Users\RAYO\Documents\Visual Studio 2010\Projects\JobLogger\JobLoggerTest\bin\Debug\JobLoggerTest.dll
+C:\Users\RAYO\Documents\Visual Studio 2010\Projects\JobLogger\JobLoggerTest\bin\Debug\JobLoggerTest.pdb
+C:\Users\RAYO\Documents\Visual Studio 2010\Projects\JobLogger\JobLoggerTest\obj\Debug\JobLoggerTest.dll
+C:\Users\RAYO\Documents\Visual Studio 2010\Projects\JobLogger\JobLoggerTest\obj\Debug\JobLoggerTest.pdb
+C:\Users\RAYO\Documents\Visual Studio 2010\Projects\JobLogger\JobLoggerTest\obj\Debug\JobLoggerTest.csprojResolveAssemblyReference.cache
+C:\JobLogger\JobLoggerTest\bin\Debug\JobLoggerTest.dll
+C:\JobLogger\JobLoggerTest\bin\Debug\JobLoggerTest.pdb
+C:\JobLogger\JobLoggerTest\bin\Debug\JobLogger.dll
+C:\JobLogger\JobLoggerTest\bin\Debug\JobLogger.pdb
+C:\JobLogger\JobLoggerTest\obj\Debug\JobLoggerTest.csprojResolveAssemblyReference.cache
+C:\JobLogger\JobLoggerTest\obj\Debug\JobLoggerTest.dll
+C:\JobLogger\JobLoggerTest\obj\Debug\JobLoggerTest.pdb
+C:\JobLogger2010\JobLoggerTest\bin\Debug\JobLoggerTest.dll
+C:\JobLogger2010\JobLoggerTest\bin\Debug\JobLoggerTest.pdb
+C:\JobLogger2010\JobLoggerTest\bin\Debug\JobLogger.dll
+C:\JobLogger2010\JobLoggerTest\bin\Debug\JobLogger.pdb
+C:\JobLogger2010\JobLoggerTest\obj\Debug\JobLoggerTest.csprojResolveAssemblyReference.cache
+C:\JobLogger2010\JobLoggerTest\obj\Debug\JobLoggerTest.dll
+C:\JobLogger2010\JobLoggerTest\obj\Debug\JobLoggerTest.pdb
